@@ -1,0 +1,45 @@
+{
+  "personal": {
+    "name": "Maxwell Allan",
+    "email": "max@email.com",
+    "phone": "11 99999-1000",
+    "consultancyType": "individual",
+    "personType": "cpf",
+    "document": "65602530070",
+    "discoveryChannels": [
+      "Instagram",
+      "YouTube",
+      "LinkedIn",
+      "Indicação de Amigo",
+      "Udemy"
+    ],
+    "file": "./cypress/fixtures/lorem-ipsum-test.pdf",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "techs": [
+      "Cypress",
+      "Selenium",
+      "Robot",
+      "Playwright"
+    ],
+    "terms": true
+  },
+  "inCompany": {
+    "name": "Maxwell Allan",
+    "email": "max@email.com",
+    "phone": "11 99999-1000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "38682837000130",
+    "discoveryChannels": [
+      "LinkedIn",
+      "Udemy"
+    ],
+    "file": "./cypress/fixtures/lorem-ipsum-test.pdf",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+    "techs": [
+      "Cypress",
+      "Selenium"
+    ],
+    "terms": true
+  }
+}
